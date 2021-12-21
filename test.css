@@ -1,3 +1,7 @@
 th.headerCell {
-background-color: #ccd8e4;     padding: 5px;     border-bottom: 0px solid #BDC3C7;    
-height: 100px; }
+    background-color: #ccd8e4;
+    padding: 5px;
+    border-bottom: 1px solid #BDC3C7;
+    height: fit-content;
+    height: 100px;
+}
